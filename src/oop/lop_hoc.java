@@ -8,8 +8,6 @@ public class lop_hoc {
 	public static void main(String[] agrs) {
 		Student st01 = new Student();
 		st01.set_name("Linh");
-		st01.name = "Lin";
-		System.out.println(st01.name);
 		st01.get_name();
 	}
 
