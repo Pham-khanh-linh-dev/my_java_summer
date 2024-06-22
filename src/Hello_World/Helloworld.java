@@ -73,5 +73,28 @@ public class Helloworld {
 
 //Array Giong c
 
+//Kiểu dữ liệu
+		// Kiểu dữ liệu nguyên thủy: primitive type: Bao gồm 8 loại
+		// byte, short, int, long ( số nguyên);
+		// float, double( số thực/ số thập phân);
+		// char
+		// boolean
+		// Kiểu dữ liệu không nguyên thủy: non-primitive type(Kiểu dữ liệu tham chiếu):
+		// String, Class, Interface, Array( gọi chung là Object); => viết hoa chữ cái
+		// đầu tiên
+
+//Cách chuyển đổi qua lại giữa các kiểu dữ liệu: Autoboxing/Unboxing ( Object wrapper class):
+		// Dunggf object wrapper class để convert primitive type => non-primitive type;
+		// boolean, byte, int , long, short, float, double => Boolean, Integer, Long,
+		// Foat,... in hoa chữ đầu
+		//
+		// Tạo wrapper class:
+		// Integer object = new Integer(1)
+		// convert ngược lại:
+		// int val = object.intValue();
+		//
+		// Boxing: quá trình convert từ primitive => non-primitive;
+		// unBoxing: ngược lại
+
 	}
 }
