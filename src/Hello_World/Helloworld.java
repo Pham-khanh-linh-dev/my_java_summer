@@ -31,7 +31,6 @@ public class Helloworld {
 //		Sự dụng buffereReader và InputStreamReader: phức tạp hơn Scanner nhưng hiệu quả cao vì nhanh hơn, có tránh ngoại lệ, kiểm oats đầu vào
 //			step 1: Import java.io.BufferedReader và InputStreamReader, khởi tạo đối tượng buffereReader:
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-
 //			step 2: 
 		System.out.println("Nhập môt số nguyên:");
 		int songuyen_b = Integer.parseInt(reader.readLine());
