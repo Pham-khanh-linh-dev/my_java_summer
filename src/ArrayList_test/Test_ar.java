@@ -30,7 +30,7 @@ public class Test_ar {
 		for (Object i : al1) {
 			System.out.println(i);
 		}
-		al1.toArray();
+//		al1.toArray();
 		System.out.println(al1);
 	}
 }

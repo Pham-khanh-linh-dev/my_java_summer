@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class menu_switch {
 	public static void main(String[] agrs) {
 		int option;
+//		Khai bao mang options
 		String[] options = new String[10];
 		options[0] = "1: Tinh phuong trinh bac nhat";
 		options[1] = "2: Tinh phuong trinh bac hai";
