@@ -8,5 +8,6 @@ public class Introduction {
 //				String input = new String();
 //			Khai báo mà không khởi tạo đối tượng: sẽ bị lỗi nếu không khởi tạo:
 //				String input;
+
 	}
 }
