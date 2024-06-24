@@ -11,7 +11,6 @@ public class Lab05 {
 		}
 		return total;
 	}
-
 	public static void main(String[] agrs) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Nhap vao so luong phan tu cua ArrayList");
