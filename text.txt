@@ -1,0 +1,6 @@
+input.txt
+Pham Khanh Linh
+2003
+20
+Sinh vien Dai Hoc Ton Duc Thang
+Hung Phu - Phuoc Long - Bac Lieu
